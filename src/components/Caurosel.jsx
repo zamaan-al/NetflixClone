@@ -19,7 +19,7 @@ function Caurosel() {
  
     return ( 
         <div className=" w-screen relative  "> 
-            <div className='text-white font-bold text-[17px] mt-[-20px] ml-5 absolute'>Top Searches</div>
+            <h2 className="text-white text-2xl font-bold mb-3">Trending Now</h2>
             <div id="scrollTab" className=" w-screen flex overflow-x-scroll overflow-y-hidden   p-5 gap-2   "> 
             <img
                 src="./AAAABZr63aJJU-MQ0ENk2tWucxSj-tchenBsbn1JgTXApwST2mdJlunUQ8OIacVLW3e1-S8z15dFUf3pjRX47Vmm8GZI1UvbbXfyPNqCsPIfkribQl-RUd8jB-wpJWuGoHMz03renXgIPNJnYSzAa5S_KHyjEDMf05uXkOpxKLdwk4fjcWI0JhU4FuMrfjyU-FrOco4_.png"
